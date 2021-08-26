@@ -3,6 +3,7 @@ Quase formada em Letras - Português e Literaturas de Língua Portuguesa
 Sou de uma cidade litorânea do Ceará, chamada Itarema (Pedra Cheirosa em tupi)
 Faço faculdade em Fortaleza
 
+<<<<<<< HEAD
 Quais suas séries favoritas? (jessika)
 
 
@@ -12,3 +13,11 @@ Difícil escolher, mas no momento:
 Westworld
 Gentleman Jack
 Wynonna Earp
+=======
+<<<<<<< HEAD
+
+Pergunta de Dayana: Qual sua banda preferida? Qual seu livro preferido?
+=======
+Quais suas séries favoritas? (jessika)
+>>>>>>> ee914f5bc216f5a331b1ea1979b05babd3cb0964
+>>>>>>> 0491c1371d18e6ffc62a35e484e4c678de3ff716

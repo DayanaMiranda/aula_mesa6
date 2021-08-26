@@ -3,6 +3,17 @@ Sou formada em Arquitetura e Urbanismo e estou em processo de transição de car
 Amante de café e vinho 🍷 Gosto muito de estudar e ler sobre vários temas, cozinhar e conversar sobre assuntos aleatórios. 
 
 
+<<<<<<< HEAD
+Pergunta de Dayana: Você nasceu em que cidade de MG? Qual seu livro preferido?
+Nasci em Patos de Minas, morei em Uberlândia, BH e Ouro Preto.
+Acho que livro preferido é Vegan Yoga. 
+
+=======
 
 Oi Jéssika, aqui é a Loy (esqueci de dizer que podem me chamar de Loy)
 Me indica um vinho?
+Um Cabernet é sempre bem vindo, recomento o Partridge.
+Mas meus favoritos são Malbecs, o Benjamin é ótimo. 
+O Porta 6 é um ótimo portugues, super indico.
+
+>>>>>>> ee914f5bc216f5a331b1ea1979b05babd3cb0964
