@@ -11,10 +11,4 @@ Me indica um vinho?
 Um Cabernet é sempre bem vindo, recomento o Partridge.
 Mas meus favoritos são Malbecs, o Benjamin é ótimo. 
 O Porta 6 é um ótimo portugues, super indico.
-<<<<<<< HEAD
-=======
-
-Vou salvar essas indicações, Jéssika. Obrigada! - Loy
-
->>>>>>> ee914f5bc216f5a331b1ea1979b05babd3cb0964
 >>>>>>> 8c3307cd5ff5c04eb87e20d4382cb8f6b9bdea01
