@@ -3,7 +3,8 @@ Olá! meu nome é Dayana, sou de Minas Gerais, mas já morei um pouquinho em qua
 =======
 <<<<<<< HEAD
 Quais suas séries favoritas? (jessika)
+Minhas séries preferidas são: The Witcher, Vikings e Black Mirror
+
 =======
 Oi Dayana, o seu tá tudo em branco mesmo? - Loy
->>>>>>> 6537c020bbe1ee720cf5fcaf5b26e880e824c150
->>>>>>> ee914f5bc216f5a331b1ea1979b05babd3cb0964
+ Agora não está mais em branco rsrs
