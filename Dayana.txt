@@ -1,1 +1,5 @@
-Quais suas séries favoritas?
+<<<<<<< HEAD
+Quais suas séries favoritas? (jessika)
+=======
+Oi Dayana, o seu tá tudo em branco mesmo? - Loy
+>>>>>>> 6537c020bbe1ee720cf5fcaf5b26e880e824c150
